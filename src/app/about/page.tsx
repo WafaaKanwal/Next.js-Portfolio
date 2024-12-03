@@ -35,7 +35,7 @@ export default function About() {
         meaningful and impactful.
       </p>
       <p className="text-lg lg:text-xl max-w-3xl mx-auto leading-relaxed mb-6 text-cyan-100 italic">
-        Let's work together to bring innovative ideas to life and create the
+        Let&apos;s work together to bring innovative ideas to life and create the
         future of the web. I am always open to new opportunities, so feel free
         to reach out and connect with me!
       </p>
