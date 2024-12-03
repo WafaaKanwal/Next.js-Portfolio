@@ -6,7 +6,7 @@ export default function Projects() {
     <div>
       <section className="py-20 bg-gradient-to-r from-indigo-700 via-purple-800 to-pink-700 text-white text-center">
         <h2 className="text-5xl font-bold mb-12">MY PROJECTS</h2>
-        <div className="project-card-container grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 px-4 mx-auto max-w-screen-xl">
+        <div className="project-card-container grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 px-20 mx-auto max-w-screen-xl">
           <div className="project-card bg-[#ad2864] text-white shadow-lg rounded-xl overflow-hidden transform transition-transform duration-300 hover:scale-105">
             <Link
               href="https://github.com/WafaaKanwal/simple-calculator.git"

@@ -4,7 +4,7 @@ export default function Contact() {
       <div className="contact-content max-w-3xl w-full p-8 bg-black bg-opacity-60 rounded-lg">
         <h2 className="text-5xl font-bold mb-12 text-teal-300">Contact Me</h2>
         <p className="text-lg mb-4 text-gray-100">
-          I'm always excited to connect with new people, whether it's for
+          I&apos;m always excited to connect with new people, whether it&apos;s for
           collaborations, networking, or just to chat about cool projects. If
           you have any inquiries or would like to discuss a potential
           partnership, feel free to reach out!
@@ -20,8 +20,8 @@ export default function Contact() {
         </p>
 
         <p className="text-lg mb-4 text-gray-100">
-          I’m currently open to freelance opportunities and collaborations.
-          Let’s create something amazing together!
+          I&apos;m currently open to freelance opportunities and collaborations.
+          Let&apos;s create something amazing together!
         </p>
 
         <div className="social-icons flex justify-center gap-6 mt-6">
